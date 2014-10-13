@@ -1,0 +1,27 @@
+{
+  "name": "青海之行",
+  "guid": "adsfasdf",
+  "locationName": "青海",
+  "author": {
+    "name": "董朝",
+    "guid": "adsfasdf",
+    "email": "yishuiliunian@gmail.com",
+    "phoneNumber": "18500040284"
+  },
+  "segements": [
+    {
+      "createDate": "",
+      "guid": "adsfasdf",
+      "resources": [
+        {
+          "type": "1",
+          "guid": "adsfasdf",
+          "createDate": "",
+          "modifiedDate": "",
+          "localEdit": "0",
+          "content": "这是一个很美丽的地方"
+        }
+      ]
+    }
+  ]
+}

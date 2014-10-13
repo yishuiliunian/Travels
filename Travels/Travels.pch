@@ -1,0 +1,16 @@
+//
+//  Travels.pch
+//  Travels
+//
+//  Created by stonedong on 14-9-25.
+//  Copyright (c) 2014年 stonedong. All rights reserved.
+//
+
+#ifndef Travels_Travels_pch
+#define Travels_Travels_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "DZSingletonFactory.h"
+#import "DZProgramDefines.h"
+#endif
